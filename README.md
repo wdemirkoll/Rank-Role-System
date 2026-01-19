@@ -8,7 +8,7 @@ This project is written using C++17.
 
 ## Features ✅
 - Enter your nickname and gain XP 🎮  
-- Rank system with **30 ranks** from Iron to Godlike 📈  
+- Rank system with **40 ranks** from Iron to Godlike 📈  
 - Gain XP by choosing actions  
 - Automatic rank updates based on XP thresholds  
 - Displays player statistics: Nickname, Rank, Total XP 📊  
